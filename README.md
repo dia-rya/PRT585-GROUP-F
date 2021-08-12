@@ -1,6 +1,6 @@
 # PRT 585 Group F Repository
 
-A short description about the project and/or client.
+.NET zero to hero. 
 
 ## Getting Started
 
