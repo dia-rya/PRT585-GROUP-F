@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{2B4C4AE7-3DB9-43DC-98D3-FE412FEC5276}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorServerSignalRApp/Program.cs">
+    <Files>
+      <File FileName="BlazorServerSignalRApp/Hubs/ChatHub.cs" Line="13" Column="2" />
+      <File FileName="BlazorServerSignalRApp/Startup.cs" />
+      <File FileName="BlazorServerSignalRApp/Pages/Index.razor" />
+      <File FileName="BlazorServerSignalRApp/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorServerSignalRApp" expanded="True">
+            <Node name="BlazorServerSignalRApp" expanded="True">
+              <Node name="Hubs" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlazorServerSignalRApp PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
