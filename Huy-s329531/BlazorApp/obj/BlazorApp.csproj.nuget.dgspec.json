@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alan Truong\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alan Truong\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alan Truong\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\Alan Truong\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\Alan Truong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alan Truong\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alan Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",
