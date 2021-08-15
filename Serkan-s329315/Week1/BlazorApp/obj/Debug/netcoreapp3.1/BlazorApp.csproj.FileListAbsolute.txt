@@ -48,3 +48,5 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\BlazorApp\ob
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.pdb
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.genruntimeconfig.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.csproj.CopyComplete
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\Todo.razor.g.cs
