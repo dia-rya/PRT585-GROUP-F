@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorHelloWorldApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\BlazorApp.csproj",
+      "projectPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorHelloWorldApp\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\Alan Truong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorApp\\obj\\",
+      "outputPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\BlazorHelloWorldApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alan Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",
