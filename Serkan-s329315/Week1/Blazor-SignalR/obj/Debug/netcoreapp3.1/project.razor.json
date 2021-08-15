@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\BlazorApp.csproj",
+  "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Blazor-SignalR.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -12,10 +12,10 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -224849593,
+        "HashCode": 1874040057,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.App",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.App",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -24,84 +24,64 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.App"
+          "Common.TypeName": "Blazor_SignalR.App"
         }
       },
       {
-        "HashCode": -1077845890,
+        "HashCode": -1915156108,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.App",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.App",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.App"
+            "TagName": "Blazor_SignalR.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.App",
+          "Common.TypeName": "Blazor_SignalR.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1804116168,
+        "HashCode": 1910411466,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Counter",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Pages.Counter",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Counter"
           }
         ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Counter"
+          "Common.TypeName": "Blazor_SignalR.Pages.Counter"
         }
       },
       {
-        "HashCode": 654093380,
+        "HashCode": 1671180369,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Counter",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Pages.Counter",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
+            "TagName": "Blazor_SignalR.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Counter",
+          "Common.TypeName": "Blazor_SignalR.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -891376953,
+        "HashCode": -222227876,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.FetchData",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Pages.FetchData",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -110,31 +90,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.FetchData"
+          "Common.TypeName": "Blazor_SignalR.Pages.FetchData"
         }
       },
       {
-        "HashCode": 77442737,
+        "HashCode": -1068443060,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.FetchData",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Pages.FetchData",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Pages.FetchData"
+            "TagName": "Blazor_SignalR.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.FetchData",
+          "Common.TypeName": "Blazor_SignalR.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1959485522,
+        "HashCode": 1796778158,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Index",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Pages.Index",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -143,31 +123,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Index"
+          "Common.TypeName": "Blazor_SignalR.Pages.Index"
         }
       },
       {
-        "HashCode": 53475371,
+        "HashCode": 600986904,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Index",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Pages.Index",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Pages.Index"
+            "TagName": "Blazor_SignalR.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Index",
+          "Common.TypeName": "Blazor_SignalR.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -186000392,
+        "HashCode": 383634855,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Shared.MainLayout",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.MainLayout",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -188,18 +168,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Shared.MainLayout"
+          "Common.TypeName": "Blazor_SignalR.Shared.MainLayout"
         }
       },
       {
-        "HashCode": 2029050121,
+        "HashCode": 308416802,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Shared.MainLayout",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.MainLayout",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Shared.MainLayout"
+            "TagName": "Blazor_SignalR.Shared.MainLayout"
           }
         ],
         "BoundAttributes": [
@@ -216,15 +196,15 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Shared.MainLayout",
+          "Common.TypeName": "Blazor_SignalR.Shared.MainLayout",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 318930202,
+        "HashCode": 49995925,
         "Kind": "Components.ChildContent",
-        "Name": "BlazorApp.Shared.MainLayout.Body",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.MainLayout.Body",
+        "AssemblyName": "Blazor-SignalR",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -235,35 +215,35 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorApp.Shared.MainLayout.Body",
+          "Common.TypeName": "Blazor_SignalR.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": -690777284,
+        "HashCode": 789582717,
         "Kind": "Components.ChildContent",
-        "Name": "BlazorApp.Shared.MainLayout.Body",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.MainLayout.Body",
+        "AssemblyName": "Blazor-SignalR",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Body",
-            "ParentTag": "BlazorApp.Shared.MainLayout"
+            "ParentTag": "Blazor_SignalR.Shared.MainLayout"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "BlazorApp.Shared.MainLayout.Body",
+          "Common.TypeName": "Blazor_SignalR.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1613854634,
+        "HashCode": -952683952,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Shared.NavMenu",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.NavMenu",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -272,31 +252,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Shared.NavMenu"
+          "Common.TypeName": "Blazor_SignalR.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -1179575551,
+        "HashCode": -1850196910,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Shared.NavMenu",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.NavMenu",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Shared.NavMenu"
+            "TagName": "Blazor_SignalR.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Shared.NavMenu",
+          "Common.TypeName": "Blazor_SignalR.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 387369113,
+        "HashCode": 1996954244,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.SurveyPrompt",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -315,18 +295,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Shared.SurveyPrompt"
+          "Common.TypeName": "Blazor_SignalR.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": -1643587959,
+        "HashCode": 1449185629,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorApp",
+        "Name": "Blazor_SignalR.Shared.SurveyPrompt",
+        "AssemblyName": "Blazor-SignalR",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Shared.SurveyPrompt"
+            "TagName": "Blazor_SignalR.Shared.SurveyPrompt"
           }
         ],
         "BoundAttributes": [
@@ -341,7 +321,7 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Shared.SurveyPrompt",
+          "Common.TypeName": "Blazor_SignalR.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14733,62 +14713,57 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "BlazorApp",
+  "RootNamespace": "Blazor_SignalR",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Pages\\Todo.razor",
-      "TargetPath": "Pages\\Todo.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\_Imports.razor",
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\BlazorApp\\Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week1\\Blazor-SignalR\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"
