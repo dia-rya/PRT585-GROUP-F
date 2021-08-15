@@ -22,8 +22,12 @@
 * In the VS terminal while in Blazor App location run ``` dotnet new razorcomponent -n Todo -o Pages ``` command
 
 The -n|--name option in the preceding command specifies the name of the new Razor component. The new component is created in the project's Pages folder with the -o|--output option.
-
-
+#### Create SignalR with Blazor
+* Create a Blazor project
+* Add the SignalR client library
+* Add a SignalR hub
+* Add SignalR services and an endpoint for the SignalR hub
+* Add Razor component code for chat
 #### Further Study
 * Data binding and events
 * C# code-behind in separate files 
