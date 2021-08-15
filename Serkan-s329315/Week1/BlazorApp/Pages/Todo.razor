@@ -9,9 +9,20 @@
     }
 </ul>
 
-<input placeholder="Something todo" />
-<button>Add todo</button>
+<input placeholder="Something todo" />  
+
+<button @onclick="AddTodo">Add todo</button>  
 
 @code {
     private List<TodoItem> todos = new List<TodoItem>();
+    private string newTodo;
+
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = string.Empty;
+        }
+    }
 }
