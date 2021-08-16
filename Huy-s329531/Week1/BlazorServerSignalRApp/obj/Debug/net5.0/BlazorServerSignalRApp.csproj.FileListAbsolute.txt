@@ -56,3 +56,14 @@ C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignal
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\obj\Debug\net5.0\BlazorServerSignalRApp.pdb
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\obj\Debug\net5.0\BlazorServerSignalRApp.genruntimeconfig.cache
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\obj\Debug\net5.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorServerSignalRApp\bin\Debug\net5.0\System.IO.Pipelines.dll
