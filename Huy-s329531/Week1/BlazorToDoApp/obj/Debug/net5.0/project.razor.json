@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": 318407421,
-        "Kind": "Components.Component",
-        "Name": "BlazorToDoApp.Pages.Index",
-        "AssemblyName": "BlazorToDoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorToDoApp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1563255313,
-        "Kind": "Components.Component",
-        "Name": "BlazorToDoApp.Pages.Index",
-        "AssemblyName": "BlazorToDoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorToDoApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorToDoApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -390340955,
         "Kind": "Components.Component",
         "Name": "BlazorToDoApp.Pages.Counter",
@@ -127,6 +94,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorToDoApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 318407421,
+        "Kind": "Components.Component",
+        "Name": "BlazorToDoApp.Pages.Index",
+        "AssemblyName": "BlazorToDoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorToDoApp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1563255313,
+        "Kind": "Components.Component",
+        "Name": "BlazorToDoApp.Pages.Index",
+        "AssemblyName": "BlazorToDoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorToDoApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorToDoApp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 161990938,
+        "Kind": "Components.Component",
+        "Name": "BlazorToDoApp.Pages.Todo",
+        "AssemblyName": "BlazorToDoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorToDoApp.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": -1909591795,
+        "Kind": "Components.Component",
+        "Name": "BlazorToDoApp.Pages.Todo",
+        "AssemblyName": "BlazorToDoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorToDoApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorToDoApp.Pages.Todo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15952,6 +15985,11 @@
   },
   "RootNamespace": "BlazorToDoApp",
   "Documents": [
+    {
+      "FilePath": "c:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week1\\BlazorToDoApp\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
+      "FileKind": "component"
+    },
     {
       "FilePath": "c:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week1\\BlazorToDoApp\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
