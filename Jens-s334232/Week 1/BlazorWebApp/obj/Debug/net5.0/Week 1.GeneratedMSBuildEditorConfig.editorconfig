@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = /Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorApp/
+build_property.RootNamespace = Week_1
+build_property.ProjectDir = /Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/
