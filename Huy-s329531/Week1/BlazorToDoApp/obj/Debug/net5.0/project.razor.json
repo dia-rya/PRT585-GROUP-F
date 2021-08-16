@@ -98,39 +98,6 @@
         }
       },
       {
-        "HashCode": 318407421,
-        "Kind": "Components.Component",
-        "Name": "BlazorToDoApp.Pages.Index",
-        "AssemblyName": "BlazorToDoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorToDoApp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1563255313,
-        "Kind": "Components.Component",
-        "Name": "BlazorToDoApp.Pages.Index",
-        "AssemblyName": "BlazorToDoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorToDoApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorToDoApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 161990938,
         "Kind": "Components.Component",
         "Name": "BlazorToDoApp.Pages.Todo",
@@ -160,6 +127,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorToDoApp.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 318407421,
+        "Kind": "Components.Component",
+        "Name": "BlazorToDoApp.Pages.Index",
+        "AssemblyName": "BlazorToDoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorToDoApp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1563255313,
+        "Kind": "Components.Component",
+        "Name": "BlazorToDoApp.Pages.Index",
+        "AssemblyName": "BlazorToDoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorToDoApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorToDoApp.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

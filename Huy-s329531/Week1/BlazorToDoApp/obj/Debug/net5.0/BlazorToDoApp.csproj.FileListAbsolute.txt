@@ -56,3 +56,5 @@ C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorToDoApp\obj\
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorToDoApp\obj\Debug\net5.0\BlazorToDoApp.pdb
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorToDoApp\obj\Debug\net5.0\BlazorToDoApp.genruntimeconfig.cache
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorToDoApp\obj\Debug\net5.0\BlazorToDoApp.csproj.CopyComplete
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorToDoApp\obj\Debug\net5.0\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week1\BlazorToDoApp\obj\Debug\net5.0\Razor\Pages\Todo.razor.g.cs
