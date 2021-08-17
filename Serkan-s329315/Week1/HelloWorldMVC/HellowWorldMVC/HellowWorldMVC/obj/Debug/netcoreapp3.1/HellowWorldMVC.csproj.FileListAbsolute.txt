@@ -12,8 +12,6 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMV
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.csprojAssemblyReference.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.AssemblyInfoInputs.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.AssemblyInfo.cs
-C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.csproj.CoreCompileInputs.cache
-C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.RazorAssemblyInfo.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.RazorAssemblyInfo.cs
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.TagHelpers.input.cache
