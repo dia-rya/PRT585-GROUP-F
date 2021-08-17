@@ -1,10 +1,17 @@
 ## Week 1 Learning Outcomes
+* What is MVC?
 * What is Blazor and Razor?
 * What is WebAssembly and Blazor WebAssembly?
 * What is Blazor Server?
 * How is Blazor UI defined?
 * Create and run a Blazor web app
-#### New Blazor App using command prompt
+#### First MVC App using command prompt
+* Create MVC app
+* Add new Conntroller
+* Add new View
+* Add new Model
+* Working With database
+#### First Blazor App using command prompt
 * New Blazor App created by using ``` dotnet new blazorserver -o BlazorApp --no-https ``` command in command promtp
 * Content of the directory BlazorApp location investigated.
 * Hello World App built and run by using ``` dotnet watch run ``` command in command prompt
