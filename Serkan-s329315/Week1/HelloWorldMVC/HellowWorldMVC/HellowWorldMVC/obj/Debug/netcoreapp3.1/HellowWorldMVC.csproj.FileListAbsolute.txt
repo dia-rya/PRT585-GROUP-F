@@ -35,3 +35,4 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMV
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.pdb
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.genruntimeconfig.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\HellowWorldMVC.csproj.CopyComplete
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week1\HelloWorldMVC\HellowWorldMVC\HellowWorldMVC\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
