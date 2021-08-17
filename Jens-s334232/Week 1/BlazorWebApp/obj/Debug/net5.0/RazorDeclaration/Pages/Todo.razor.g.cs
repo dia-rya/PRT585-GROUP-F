@@ -82,8 +82,8 @@ using Week_1.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
-    public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/todo")]
+    public partial class Todo : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -91,17 +91,18 @@ using Week_1.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/Pages/Counter.razor"
+#line 15 "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/Pages/Todo.razor"
        
-    private int currentCount = 0;
+    private List<TodoItem> todos = new();
+    private string newTodo;
 
-    [Parameter]
-    public int IncrementAmount {get; set;} = 1;
-
-
-    private void IncrementCount()
+    private void AddTodo()
     {
-        currentCount+= IncrementAmount;
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = string.Empty;
+        }
     }
 
 #line default

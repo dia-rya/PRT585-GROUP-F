@@ -90,7 +90,7 @@ using Week_1.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/Shared/NavMenu.razor"
+#line 33 "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

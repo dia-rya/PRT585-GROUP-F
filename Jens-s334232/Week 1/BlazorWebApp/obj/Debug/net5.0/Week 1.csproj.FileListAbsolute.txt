@@ -79,3 +79,5 @@
 /Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/obj/Debug/net5.0/Week 1.pdb
 /Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/obj/Debug/net5.0/Week 1.genruntimeconfig.cache
 /Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/obj/Debug/net5.0/Week 1.csproj.CopyComplete
+/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/obj/Debug/net5.0/RazorDeclaration/Pages/Todo.razor.g.cs
+/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/obj/Debug/net5.0/Razor/Pages/Todo.razor.g.cs
