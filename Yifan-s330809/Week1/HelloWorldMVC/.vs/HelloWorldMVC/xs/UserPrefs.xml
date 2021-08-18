@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{1A88FA8A-C86A-4B46-9A37-5F55FA1E8E8F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/Models/MovieGenreViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/Models/SeedData.cs">
     <Files>
       <File FileName="HelloWorldMVC/Controllers/HelloWorldController.cs" Line="32" Column="10" />
       <File FileName="HelloWorldMVC/Startup.cs" Line="24" Column="1" />
@@ -16,7 +16,10 @@
             <Node name="HelloWorldMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True">
-                <Node name="MovieGenreViewModel.cs" selected="True" />
+                <Node name="SeedData.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Movies" expanded="True" />
               </Node>
             </Node>
           </Node>
