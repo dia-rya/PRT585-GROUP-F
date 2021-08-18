@@ -91,16 +91,18 @@ using Week_1.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 15 "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/Pages/Todo.razor"
+#line 19 "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorWebApp/Pages/Todo.razor"
        
     private List<TodoItem> todos = new();
     private string newTodo;
-
     private void AddTodo()
     {
         if (!string.IsNullOrWhiteSpace(newTodo))
         {
-            todos.Add(new TodoItem { Title = newTodo });
+            todos.Add(new TodoItem
+            {
+                Title = newTodo
+            });
             newTodo = string.Empty;
         }
     }
