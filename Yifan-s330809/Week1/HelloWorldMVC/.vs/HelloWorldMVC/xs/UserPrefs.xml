@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{1A88FA8A-C86A-4B46-9A37-5F55FA1E8E8F}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorldMVC FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/Startup.cs">
+    <Files>
+      <File FileName="HelloWorldMVC/Controllers/HelloWorldController.cs" Line="40" Column="10" />
+      <File FileName="HelloWorldMVC/Startup.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldMVC" expanded="True" selected="True">
+            <Node name="HelloWorldMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
