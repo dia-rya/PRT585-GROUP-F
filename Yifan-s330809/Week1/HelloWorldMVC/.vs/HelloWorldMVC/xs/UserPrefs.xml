@@ -1,16 +1,26 @@
 ﻿<Properties StartupConfiguration="{1A88FA8A-C86A-4B46-9A37-5F55FA1E8E8F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/Views/HelloWorld/Welcome.cshtml">
     <Files>
-      <File FileName="HelloWorldMVC/Controllers/HelloWorldController.cs" Line="40" Column="10" />
-      <File FileName="HelloWorldMVC/Startup.cs" Line="1" Column="1" />
-      <File FileName="HelloWorldMVC/Program.cs" Line="16" Column="1" />
+      <File FileName="HelloWorldMVC/Controllers/HelloWorldController.cs" Line="32" Column="10" />
+      <File FileName="HelloWorldMVC/Startup.cs" Line="24" Column="32" />
+      <File FileName="HelloWorldMVC/Program.cs" />
+      <File FileName="HelloWorldMVC/Views/HelloWorld/Index.cshtml" Line="4" Column="3" />
+      <File FileName="HelloWorldMVC/Views/Shared/_Layout.cshtml" Line="40" Column="36" />
+      <File FileName="HelloWorldMVC/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Views/HelloWorld/Welcome.cshtml" Line="15" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelloWorldMVC" expanded="True" selected="True">
+          <Node name="HelloWorldMVC" expanded="True">
             <Node name="HelloWorldMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True">
+                  <Node name="Welcome.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

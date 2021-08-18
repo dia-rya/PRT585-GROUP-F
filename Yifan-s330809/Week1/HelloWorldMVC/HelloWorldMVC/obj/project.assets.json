@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yifansong/Projects/HelloWorldMVC/HelloWorldMVC/HelloWorldMVC.csproj",
+      "projectUniqueName": "/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week1/HelloWorldMVC/HelloWorldMVC/HelloWorldMVC.csproj",
       "projectName": "HelloWorldMVC",
-      "projectPath": "/Users/yifansong/Projects/HelloWorldMVC/HelloWorldMVC/HelloWorldMVC.csproj",
+      "projectPath": "/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week1/HelloWorldMVC/HelloWorldMVC/HelloWorldMVC.csproj",
       "packagesPath": "/Users/yifansong/.nuget/packages/",
-      "outputPath": "/Users/yifansong/Projects/HelloWorldMVC/HelloWorldMVC/obj/",
+      "outputPath": "/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week1/HelloWorldMVC/HelloWorldMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yifansong/.config/NuGet/NuGet.Config"
