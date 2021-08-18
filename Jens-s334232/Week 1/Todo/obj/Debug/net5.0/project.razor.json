@@ -131,39 +131,6 @@
         }
       },
       {
-        "HashCode": -1517211245,
-        "Kind": "Components.Component",
-        "Name": "Week_1.Pages.Todo",
-        "AssemblyName": "Week 1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Todo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Week_1.Pages.Todo"
-        }
-      },
-      {
-        "HashCode": -127963392,
-        "Kind": "Components.Component",
-        "Name": "Week_1.Pages.Todo",
-        "AssemblyName": "Week 1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Week_1.Pages.Todo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Week_1.Pages.Todo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1966987259,
         "Kind": "Components.Component",
         "Name": "Week_1.App",
