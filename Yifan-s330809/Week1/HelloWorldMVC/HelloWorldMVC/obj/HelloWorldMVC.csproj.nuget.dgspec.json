@@ -14,7 +14,7 @@
         "outputPath": "/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week1/HelloWorldMVC/HelloWorldMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yifansong/.nuget/NuGet/NuGet.Config"
+          "/Users/yifansong/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
