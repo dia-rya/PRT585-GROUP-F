@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCuT6jWfYv1VdFUfmZTegto2nrG32gdcuA4a2BKkX2JGk/zYLtoCXEQGM1jARdiwrdcAn4s2oG13jISLQcJsMQ==",
+  "success": true,
+  "projectFilePath": "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorServerSignalRApp/BlazorServerSignalRApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.connections.abstractions/5.0.9/microsoft.aspnetcore.connections.abstractions.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.http.connections.client/5.0.9/microsoft.aspnetcore.http.connections.client.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.http.connections.common/5.0.9/microsoft.aspnetcore.http.connections.common.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.http.features/5.0.9/microsoft.aspnetcore.http.features.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.signalr.client/5.0.9/microsoft.aspnetcore.signalr.client.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.signalr.client.core/5.0.9/microsoft.aspnetcore.signalr.client.core.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.signalr.common/5.0.9/microsoft.aspnetcore.signalr.common.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/5.0.9/microsoft.aspnetcore.signalr.protocols.json.5.0.9.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/Users/mer/.nuget/packages/microsoft.extensions.primitives/5.0.1/microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "/Users/mer/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
+    "/Users/mer/.nuget/packages/system.threading.channels/5.0.0/system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

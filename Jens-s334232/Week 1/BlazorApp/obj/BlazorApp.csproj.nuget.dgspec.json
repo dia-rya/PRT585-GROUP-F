@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mer/BlazorApp/BlazorApp.csproj": {}
+    "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorApp/BlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/mer/BlazorApp/BlazorApp.csproj": {
+    "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorApp/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mer/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorApp/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/Users/mer/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorApp/BlazorApp.csproj",
         "packagesPath": "/Users/mer/.nuget/packages/",
-        "outputPath": "/Users/mer/BlazorApp/obj/",
+        "outputPath": "/Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mer/.nuget/NuGet/NuGet.Config"
