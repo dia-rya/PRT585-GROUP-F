@@ -23,6 +23,15 @@ namespace MvcMovie.Controllers
             return View();
         }
 
+        // 
+        // GET: /HelloWorld/Welcome/ 
+
+        public IActionResult Welcome()
+        {
+            //return "This is the Welcome action method...";
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
