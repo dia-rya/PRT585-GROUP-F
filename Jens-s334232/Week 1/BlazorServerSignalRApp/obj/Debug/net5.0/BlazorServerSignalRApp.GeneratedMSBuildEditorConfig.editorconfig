@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = BlazorServerSignalRApp
-build_property.ProjectDir = C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Jens-s334232\Week 1\BlazorServerSignalRApp\
+build_property.ProjectDir = /Users/mer/Documents/GitHub/PRT585-GROUP-F/Jens-s334232/Week 1/BlazorServerSignalRApp/
