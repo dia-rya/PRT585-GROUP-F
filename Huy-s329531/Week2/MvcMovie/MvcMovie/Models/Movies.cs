@@ -14,7 +14,13 @@ namespace MvcMovie.Models
 
         [DataType(DataType.Date)]
 
+        public string Name { get; set; }
+
         public DateTime ReleaseDate { get; set; }
+
+        public string Director { get; set; }
+
+        public string ContactEmail { get; set; }
 
         public string Genre { get; set; }
 
