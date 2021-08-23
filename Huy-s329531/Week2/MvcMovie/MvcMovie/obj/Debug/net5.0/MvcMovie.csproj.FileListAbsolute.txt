@@ -9,7 +9,6 @@ C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
-C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
@@ -38,3 +37,4 @@ C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\Alan Truong\Desktop\PRT585-GROUP-F\Huy-s329531\Week2\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.AssemblyReference.cache
