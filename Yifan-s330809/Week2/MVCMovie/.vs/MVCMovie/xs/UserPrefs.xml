@@ -1,17 +1,21 @@
 ﻿<Properties StartupConfiguration="{E1E03E36-18C5-43AA-A984-9A5C48470F6F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovie/Controllers/AdminController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovie/appsettings.json">
     <Files>
-      <File FileName="MVCMovie/Controllers/AdminController.cs" Line="24" Column="30" />
-      <File FileName="MVCMovie/Views/Admin/Admin.cshtml" Line="24" Column="6" />
+      <File FileName="MVCMovie/Startup.cs" Line="32" Column="1" />
+      <File FileName="MVCMovie/appsettings.json" Line="16" Column="55" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MVCMovie" expanded="True">
             <Node name="MVCMovie" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Shared" selected="True" />
+                <Node name="Admin" expanded="True" />
+                <Node name="Movies" expanded="True" />
               </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

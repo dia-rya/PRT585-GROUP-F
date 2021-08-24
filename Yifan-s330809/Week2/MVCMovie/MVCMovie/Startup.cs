@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -8,22 +8,62 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
 
 namespace MVCMovie
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration, IWebHostEnvironment envForMovieContext, IWebHostEnvironment envForCategoryContext)
         {
+            MovieEnvironment = envForMovieContext;
+            CategoryEnvironment = envForCategoryContext;
             Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
+        public IWebHostEnvironment MovieEnvironment { get; }
+        public IWebHostEnvironment CategoryEnvironment { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            //services.AddDbContext<MvcMovieContext>(options =>
+            //{
+            //    var connectionString = Configuration.GetConnectionString("MvcMovieContext");
+
+            //    if (MovieEnvironment.IsDevelopment())
+            //    {
+            //        options.UseSqlite(connectionString);
+            //    }
+            //    else
+            //    {
+            //        options.UseSqlServer(connectionString);
+            //    }
+            //});
+
+            services.AddDbContext<MvcMovieContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("MvcMovieContext")));
+
+            //services.AddDbContext<MvcCategoryContext>(options =>
+            //{
+            //    var connectionString = Configuration.GetConnectionString("MvcCategoryContext");
+
+            //    if (CategoryEnvironment.IsDevelopment())
+            //    {
+            //        options.UseSqlite(connectionString);
+            //    }
+            //    else
+            //    {
+            //        options.UseSqlServer(connectionString);
+            //    }
+            //});
+
+            services.AddDbContext<MvcCategoryContext>(options =>
+                options.UseSqlite(Configuration.GetConnectionString("MvcCategoryContext")));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
