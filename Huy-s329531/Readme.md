@@ -1,5 +1,0 @@
------------Individual Task--------------
-- Group: Group F
-- Student ID: s329531
-- Student name: Ngo Truong Huy TRUONG
----------------------------------------
