@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj": {}
+    "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\NgoTruongHuyTRUONG-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj": {
+    "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\NgoTruongHuyTRUONG-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj",
+        "projectUniqueName": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\NgoTruongHuyTRUONG-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj",
         "projectName": "MvcTheater",
-        "projectPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj",
+        "projectPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\NgoTruongHuyTRUONG-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj",
         "packagesPath": "C:\\Users\\Alan Truong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week2\\MvcTheater\\MvcTheater\\obj\\",
+        "outputPath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\NgoTruongHuyTRUONG-s329531\\Week2\\MvcTheater\\MvcTheater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alan Truong\\AppData\\Roaming\\NuGet\\NuGet.Config",

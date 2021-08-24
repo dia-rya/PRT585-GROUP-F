@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hFHZ1C+Tr61vOSBPfFfIeOsiYiAMztPbSyGRp/N8IGxymmTwa4JkDyxhO91jS/ZsF9nu3qbUFlP5DYdYYSqGdg==",
+  "dgSpecHash": "eoNTQo8QIOExE2IW/WMOU6b+4X2p3KFaEV1AoV0+70giy8RbeGAY4gWcEPCTdTzakiLaNE+3u00hSHiQQNRz0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\Huy-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj",
+  "projectFilePath": "C:\\Users\\Alan Truong\\Desktop\\PRT585-GROUP-F\\NgoTruongHuyTRUONG-s329531\\Week2\\MvcTheater\\MvcTheater\\MvcTheater.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alan Truong\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alan Truong\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
