@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1B5B245B-9119-4AF1-A45E-C44EECF2088A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTheater", "MvcTheater\MvcTheater.csproj", "{22FF6F4F-96C1-4592-9556-05F309DE8021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B5B245B-9119-4AF1-A45E-C44EECF2088A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B5B245B-9119-4AF1-A45E-C44EECF2088A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B5B245B-9119-4AF1-A45E-C44EECF2088A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B5B245B-9119-4AF1-A45E-C44EECF2088A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FF6F4F-96C1-4592-9556-05F309DE8021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FF6F4F-96C1-4592-9556-05F309DE8021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FF6F4F-96C1-4592-9556-05F309DE8021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FF6F4F-96C1-4592-9556-05F309DE8021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2817829B-4D1B-4D75-8F06-AA14BE76D636}
+		SolutionGuid = {EAFDF836-0878-4EBA-932C-19B31E5292A0}
 	EndGlobalSection
 EndGlobal
