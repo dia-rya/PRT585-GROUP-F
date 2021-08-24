@@ -26,6 +26,9 @@ namespace MvcMovie.Models
                         Title = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Genre = "Romantic Comedy",
+                        Rating = "4.5",
+                        Director="Jack",
+                        ContactEmailaddress="jack@gamil.com",
                         Price = 7.99M
                     },
 
@@ -34,6 +37,9 @@ namespace MvcMovie.Models
                         Title = "Ghostbusters ",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Genre = "Comedy",
+                        Rating = "5",
+                        Director = "Anna",
+                        ContactEmailaddress = "anna@gamil.com",
                         Price = 8.99M
                     },
 
@@ -42,6 +48,9 @@ namespace MvcMovie.Models
                         Title = "Ghostbusters 2",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Genre = "Comedy",
+                        Rating = "5.5",
+                        Director = "Ford",
+                        ContactEmailaddress = "Ford@gamil.com",
                         Price = 9.99M
                     },
 
@@ -50,6 +59,9 @@ namespace MvcMovie.Models
                         Title = "Rio Bravo",
                         ReleaseDate = DateTime.Parse("1959-4-15"),
                         Genre = "Western",
+                        Rating = "7.5",
+                        Director = "Micheal",
+                        ContactEmailaddress = "Micheal@gamil.com",
                         Price = 3.99M
                     }
                 );
