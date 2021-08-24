@@ -23,7 +23,6 @@
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.RazorCoreGenerate.cache
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
-/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Movies/Admin.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Movies/Index.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
@@ -38,3 +37,5 @@
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.pdb
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.genruntimeconfig.cache
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.csproj.CopyComplete
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.csproj.AssemblyReference.cache
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs

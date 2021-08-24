@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Views\Movies\" />
+    <None Remove="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\Movies\" />
+    <Folder Include="Views\Admin\" />
   </ItemGroup>
 </Project>

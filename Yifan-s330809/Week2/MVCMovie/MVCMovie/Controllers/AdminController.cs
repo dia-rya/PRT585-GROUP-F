@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,11 +8,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MVCMovie.Controllers
 {
-    public class MoviesController : Controller
+    public class AdminController : Controller
     {
         /*GET: /Movie/
-         * Returns a string
-         */
+          * Returns a string
+          */
         //public string Index()
         //{
         //    return "This is my default action...";
@@ -21,17 +20,12 @@ namespace MVCMovie.Controllers
 
         // GET: /Movie/
         // Action Method
-        public IActionResult Index()
-        {
-            // Calls controller's View Method. 
-            return View();
-        }
 
         /* GET: /Movie/Admin/
          * Requires using System.Text.Encodings.Web;
          * Access URL: https://localhost:5001/Movies/Admin?username=Yifan&userID=7
          * */
-        //public string Admin(string username, int userID = 1)
+        //public string Index(string username, int userID = 1)
         //{
         //    return HtmlEncoder.Default.Encode($"Hello, {username}, your user ID is: {userID}");
         //}
@@ -42,7 +36,7 @@ namespace MVCMovie.Controllers
          * Access URL: https://localhost:5001/Movies/Admin/7?username=Yifan
          * Returns a string
          */
-        //public string Admin(string username, int ID = 1)
+        //public string Index(string username, int ID = 1)
         //{
         //    return HtmlEncoder.Default.Encode($"Hello, {username}, your user ID is: {ID}");
         //}
@@ -50,14 +44,12 @@ namespace MVCMovie.Controllers
 
         // GET: /Movie/Admin/
         // Action Method
-        public IActionResult Admin(string username, int userID = 1)
+        public IActionResult Index(string username, int userID = 1)
         {
-            ViewData["Username"] = "Username:" + username;
-            ViewData["UserID"] = "User ID: "+ userID;
+            ViewData["Username"] = "Username: " + username;
+            ViewData["UserID"] = "User ID: " + userID;
 
             return View();
         }
-
-
     }
 }
