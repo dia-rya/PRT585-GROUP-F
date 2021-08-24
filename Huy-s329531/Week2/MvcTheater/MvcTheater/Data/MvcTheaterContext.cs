@@ -15,5 +15,7 @@ namespace MvcTheater.Data
         }
 
         public DbSet<MvcTheater.Models.Movie> Movie { get; set; }
+
+        public DbSet<MvcTheater.Models.Category> Category { get; set; }
     }
 }
