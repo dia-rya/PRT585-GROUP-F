@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -45,6 +46,13 @@ namespace MVCMovie.Controllers
         // GET: Movies/Create
         public IActionResult Create()
         {
+            List<Category> CategoryList = new List<Category>();
+            CategoryList = (from d in _context.Category select d).ToList();
+       
+            ViewBag.ListofCategory = CategoryList;
+
+
+
             return View();
         }
 
@@ -53,7 +61,7 @@ namespace MVCMovie.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,ReleaseDate,Director,Email,Language,MovieCategory")] Movie movie)
+        public async Task<IActionResult> Create([Bind("Id,Name,ReleaseDate,Director,Email,Language,Category")] Movie movie)
         {
             if (ModelState.IsValid)
             {
@@ -61,8 +69,12 @@ namespace MVCMovie.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+ 
             return View(movie);
         }
+
+
+
 
         // GET: Movies/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -77,6 +89,10 @@ namespace MVCMovie.Controllers
             {
                 return NotFound();
             }
+            List<Category> CategoryList = new List<Category>();
+            CategoryList = (from d in _context.Category select d).ToList();
+
+            ViewBag.ListofCategory = CategoryList;
             return View(movie);
         }
 
@@ -85,7 +101,7 @@ namespace MVCMovie.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,ReleaseDate,Director,Email,Language,MovieCategory")] Movie movie)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,ReleaseDate,Director,Email,Language,Category")] Movie movie)
         {
             if (id != movie.Id)
             {

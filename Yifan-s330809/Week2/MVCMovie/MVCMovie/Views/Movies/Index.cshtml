@@ -29,7 +29,7 @@
             </th>
 
             <th>
-                @Html.DisplayNameFor(model => model.MovieCategory)
+                @Html.DisplayNameFor(model => model.Category)
             </th>
             <th></th>
         </tr>
@@ -52,9 +52,9 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Language)
             </td>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.MovieCategory)
-            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Category)
+            </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |

@@ -21,12 +21,9 @@ namespace MVCMovie.Models
 
         public string Director { get; set; }
         public string Email { get; set; }
-
         public string Language { get; set; }
-
-        public Category MovieCategory { get; set; }
+        public string Category { get; set; }
     }
-
     public enum LanguageType
     {
         Chinese,
