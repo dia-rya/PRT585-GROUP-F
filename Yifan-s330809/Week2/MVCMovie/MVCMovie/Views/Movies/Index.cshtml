@@ -24,6 +24,13 @@
             <th>
                 @Html.DisplayNameFor(model => model.Email)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Language)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.MovieCategory)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -41,6 +48,12 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Language)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieCategory)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

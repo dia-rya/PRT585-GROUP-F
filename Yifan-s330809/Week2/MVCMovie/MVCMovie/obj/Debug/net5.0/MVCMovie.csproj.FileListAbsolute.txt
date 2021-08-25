@@ -174,3 +174,4 @@
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/ref/MVCMovie.dll
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.pdb
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.genruntimeconfig.cache
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.csproj.AssemblyReference.cache

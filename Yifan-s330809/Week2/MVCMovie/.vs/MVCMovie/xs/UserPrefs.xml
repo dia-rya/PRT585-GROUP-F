@@ -1,5 +1,12 @@
 ﻿<Properties StartupConfiguration="{E1E03E36-18C5-43AA-A984-9A5C48470F6F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovie/Views/Movies/Index.cshtml">
+    <Files>
+      <File FileName="MVCMovie/Models/Movie.cs" Line="27" Column="38" />
+      <File FileName="MVCMovie/Views/Movies/Create.cshtml" Line="7" Column="16" />
+      <File FileName="MVCMovie/Models/SeedData.cs" Line="49" Column="1" />
+      <File FileName="MVCMovie/Controllers/MoviesController.cs" Line="88" Column="119" />
+      <File FileName="MVCMovie/Views/Movies/Index.cshtml" Line="32" Column="68" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -12,7 +19,7 @@
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Movies" expanded="True">
-                  <Node name="Delete.cshtml" selected="True" />
+                  <Node name="Index.cshtml" selected="True" />
                 </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />

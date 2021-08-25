@@ -25,7 +25,8 @@ namespace MVCMovie.Models
                         Name = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Director = "Romantic Comedy",
-                        Email = "7.99M"
+                        Email = "7.99M",
+                        Language = LanguageType.English.ToString()
                     },
 
                     new Movie
@@ -33,7 +34,8 @@ namespace MVCMovie.Models
                         Name = "Ghostbusters ",
                         ReleaseDate = DateTime.Parse("1984-3-13"),
                         Director = "Comedy",
-                        Email = "8.99M"
+                        Email = "8.99M",
+                        Language = LanguageType.English.ToString()
                     },
 
                     new Movie
@@ -41,7 +43,8 @@ namespace MVCMovie.Models
                         Name = "Ghostbusters 2",
                         ReleaseDate = DateTime.Parse("1986-2-23"),
                         Director = "Comedy",
-                        Email = "9.99M"
+                        Email = "9.99M",
+                        Language = LanguageType.English.ToString()
                     },
 
                     new Movie
@@ -49,7 +52,8 @@ namespace MVCMovie.Models
                         Name = "Rio Bravo",
                         ReleaseDate = DateTime.Parse("1959-4-15"),
                         Director = "Western",
-                        Email = "3.99M"
+                        Email = "3.99M",
+                        Language = LanguageType.English.ToString()
                     }
                 );
                 context.SaveChanges();
@@ -71,7 +75,6 @@ namespace MVCMovie.Models
                     {
                         Name = "Comedy",
                         Code = "C01"
-
                     },
 
                     new Category
