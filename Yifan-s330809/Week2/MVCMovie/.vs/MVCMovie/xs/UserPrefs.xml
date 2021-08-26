@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{E1E03E36-18C5-43AA-A984-9A5C48470F6F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovie/Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="MVCMovie/Models/Movie.cs" Line="30" Column="17" />
+      <File FileName="MVCMovie/Views/Movies/Create.cshtml" Line="46" Column="1" />
+      <File FileName="MVCMovie/Views/Movies/Details.cshtml" Line="41" Column="53" />
+      <File FileName="MVCMovie/Views/Movies/Delete.cshtml" Line="45" Column="53" />
+      <File FileName="MVCMovie/Views/Movies/Edit.cshtml" Line="37" Column="73" />
+      <File FileName="MVCMovie/Controllers/MoviesController.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCMovie" expanded="True">
+            <Node name="MVCMovie" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MoviesController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Movies" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVCMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
