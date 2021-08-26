@@ -11,9 +11,9 @@ namespace MVCMovie.Controllers
 {
     public class CategoriesController : Controller
     {
-        private readonly MvcCategoryContext _context;
+        private readonly MvcMovieContext _context;
 
-        public CategoriesController(MvcCategoryContext context)
+        public CategoriesController(MvcMovieContext context)
         {
             _context = context;
         }
@@ -38,7 +38,6 @@ namespace MVCMovie.Controllers
             {
                 return NotFound();
             }
-
             return View(category);
         }
 

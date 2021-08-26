@@ -149,11 +149,6 @@
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.TagHelpers.output.cache
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.RazorCoreGenerate.cache
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Admin/Index.cshtml.g.cs
-/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Create.cshtml.g.cs
-/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Delete.cshtml.g.cs
-/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Details.cshtml.g.cs
-/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Edit.cshtml.g.cs
-/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Index.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Movies/Create.cshtml.g.cs
@@ -175,3 +170,8 @@
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.pdb
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.genruntimeconfig.cache
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/MVCMovie.csproj.AssemblyReference.cache
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Create.cshtml.g.cs
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Delete.cshtml.g.cs
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Details.cshtml.g.cs
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Edit.cshtml.g.cs
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week2/MVCMovie/MVCMovie/obj/Debug/net5.0/Razor/Views/Categories/Index.cshtml.g.cs
