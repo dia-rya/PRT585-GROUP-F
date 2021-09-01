@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{E8FF020D-E6FE-4A98-8CD3-CA6C20E4837E}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoAPI/Models/TodoItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoAPI/Startup.cs">
     <Files>
       <File FileName="ToDoAPI.sln" Line="1" Column="1" />
       <File FileName="ToDoAPI/ToDoAPI.csproj" Line="6" Column="34" />
       <File FileName="ToDoAPI/Program.cs" Line="27" Column="31" />
-      <File FileName="ToDoAPI/Startup.cs" Line="65" Column="43" />
-      <File FileName="ToDoAPI/Controllers/TodoItemsController.cs" Line="90" Column="67" />
-      <File FileName="ToDoAPI/Models/TodoItem.cs" Line="7" Column="19" />
+      <File FileName="ToDoAPI/Startup.cs" Line="71" Column="10" />
+      <File FileName="ToDoAPI/Controllers/TodoItemsController.cs" Line="94" Column="64" />
+      <File FileName="ToDoAPI/Models/TodoItem.cs" Line="9" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,9 +14,8 @@
           <Node name="ToDoAPI" expanded="True">
             <Node name="ToDoAPI" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="TodoItem.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
