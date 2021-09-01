@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{E8FF020D-E6FE-4A98-8CD3-CA6C20E4837E}|Default">
-  <MonoDevelop.Ide.ItemProperties.ToDoAPI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoAPI/Models/TodoItem.cs">
+    <Files>
+      <File FileName="ToDoAPI/Models/TodoItem.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoAPI" expanded="True">
+            <Node name="ToDoAPI" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="TodoItem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ToDoAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
