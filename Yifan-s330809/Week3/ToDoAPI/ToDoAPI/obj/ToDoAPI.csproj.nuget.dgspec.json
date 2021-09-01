@@ -14,7 +14,7 @@
         "outputPath": "/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yifansong/.config/NuGet/NuGet.Config"
+          "/Users/yifansong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -38,9 +38,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[5.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
