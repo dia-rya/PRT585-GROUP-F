@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovie/Controllers/MoviesController.cs">
     <Files>
       <File FileName="MVCMovie/Models/Movie.cs" Line="30" Column="17" />
-      <File FileName="MVCMovie/Views/Movies/Create.cshtml" Line="46" Column="1" />
+      <File FileName="MVCMovie/Views/Movies/Create.cshtml" Line="39" Column="61" />
       <File FileName="MVCMovie/Views/Movies/Details.cshtml" Line="41" Column="53" />
       <File FileName="MVCMovie/Views/Movies/Delete.cshtml" Line="45" Column="53" />
-      <File FileName="MVCMovie/Views/Movies/Edit.cshtml" Line="37" Column="73" />
-      <File FileName="MVCMovie/Controllers/MoviesController.cs" Line="49" Column="1" />
+      <File FileName="MVCMovie/Views/Movies/Edit.cshtml" Line="41" Column="51" />
+      <File FileName="MVCMovie/Controllers/MoviesController.cs" Line="54" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
