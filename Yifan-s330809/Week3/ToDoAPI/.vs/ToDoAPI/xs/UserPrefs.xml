@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{E8FF020D-E6FE-4A98-8CD3-CA6C20E4837E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoAPI/Controllers/TodoItemsController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoAPI/Models/TodoItemDTO.cs">
     <Files>
-      <File FileName="ToDoAPI/Controllers/TodoItemsController.cs" Line="32" Column="71" />
+      <File FileName="ToDoAPI/Controllers/TodoItemsController.cs" Line="51" Column="37" />
+      <File FileName="ToDoAPI/Models/TodoItem.cs" Line="9" Column="43" />
+      <File FileName="ToDoAPI/Models/TodoItemDTO.cs" Line="9" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ToDoAPI" expanded="True">
             <Node name="ToDoAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="TodoItemsController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="TodoItemDTO.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
