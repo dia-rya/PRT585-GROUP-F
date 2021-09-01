@@ -127,3 +127,11 @@
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/Debug/net5.0/ref/ToDoAPI.dll
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/Debug/net5.0/ToDoAPI.pdb
 /Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/Debug/net5.0/ToDoAPI.genruntimeconfig.cache
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/Debug/net5.0/ToDoAPI.csproj.AssemblyReference.cache
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/Debug/net5.0/ToDoAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/bin/Debug/net5.0/ToDoAPI.xml
+/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/Debug/net5.0/ToDoAPI.xml

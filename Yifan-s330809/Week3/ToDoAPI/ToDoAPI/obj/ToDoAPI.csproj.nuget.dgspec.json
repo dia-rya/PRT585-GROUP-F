@@ -14,7 +14,7 @@
         "outputPath": "/Users/yifansong/PRT585-GROUP-F/Yifan-s330809/Week3/ToDoAPI/ToDoAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yifansong/.nuget/NuGet/NuGet.Config"
+          "/Users/yifansong/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,6 +55,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
             }
           },
           "imports": [
