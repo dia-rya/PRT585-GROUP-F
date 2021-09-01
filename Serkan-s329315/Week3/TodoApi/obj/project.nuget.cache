@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd5or2DB5qQj9sJETjycxxc3mzNW4b0X/nJEwk0ahlUbXHqxoV/KdAMVUOnTID9omDrZv8gVDLEnD/w8mQ8B0A==",
+  "dgSpecHash": "lrYuf5m+MdjyMYQZQqT/CtRXn/cFUOuUYH+aa0xnJ+e3Qhfcy6nNyZn0wpHqE4RMAnZ8tijJq/mZpqh6OeyNcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G4NTZ\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\G4NTZ\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",

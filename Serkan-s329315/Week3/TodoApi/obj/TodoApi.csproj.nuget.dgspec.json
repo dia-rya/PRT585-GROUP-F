@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\G4NTZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\G4NTZ\\Documents\\GitHub\\PRT585-GROUP-F\\Serkan-s329315\\Week3\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
