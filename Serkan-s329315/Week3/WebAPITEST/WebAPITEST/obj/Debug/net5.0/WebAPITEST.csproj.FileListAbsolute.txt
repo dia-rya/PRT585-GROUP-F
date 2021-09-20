@@ -11,7 +11,6 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\W
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\WebAPITEST.csproj.AssemblyReference.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\WebAPITEST.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\WebAPITEST.AssemblyInfoInputs.cache
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\WebAPITEST.AssemblyInfo.cs
@@ -27,3 +26,6 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\W
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\ref\WebAPITEST.dll
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\WebAPITEST.pdb
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\obj\Debug\net5.0\WebAPITEST.genruntimeconfig.cache
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week3\WebAPITEST\WebAPITEST\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
