@@ -28,7 +28,7 @@ namespace FirstAngularAPP.Controllers
         }
 
         // GET api/<StudentsController>/5
-        [HttpGet("{id}")]
+        [HttpGet("{id}", Name ="Get")]
         public string Get(int id)
         {
             return "value";
