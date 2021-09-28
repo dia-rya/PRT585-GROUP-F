@@ -1,12 +1,12 @@
 mat-sidenav {
-    margin: 16px;
-    width: 200px;
+    margin: 0px;
+    width: 175px;
     border-right: none;
     background: #002b5c;
     color: white;
     border-radius: 10px;
-    padding: 16px;
-    text-align: center;
+    padding: 5px;
+    text-align: left;
 }
 
 .content {
@@ -27,10 +27,3 @@ mat-sidenav-container {
     height: calc(100vh - 65px);
 }
 
-.menu-button {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    font-size: 1rem;
-}

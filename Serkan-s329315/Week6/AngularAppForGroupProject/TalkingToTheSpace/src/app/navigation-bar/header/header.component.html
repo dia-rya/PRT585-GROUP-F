@@ -4,17 +4,17 @@
             <mat-icon>menu</mat-icon>
         </button>
     </div>
-    <div>
-        <a routerLink="/home">Home</a>
-    </div>
-    <div fxFlex fxLayout fxLayoutAlign="end" fxHide.xs>
-        <ul fxLayout fxLayoutGap="15px" class="navigation-items">
-            <li>
-                <a routerLink="/home">Home</a>
-            </li>
-            <li>
-                <a routerLink="/about">About</a>
-            </li>
-        </ul>
-    </div>
+    <button mat-button>
+        <mat-icon>circle_notifications</mat-icon>
+    </button>
+    <button mat-button routerLink="/login">
+        <mat-icon>logout</mat-icon>
+    </button>
+    
+    <button mat-button routerLink="/signup">
+        <mat-icon>fingerprint</mat-icon>
+    </button>
+    <button mat-button routerLink="/login">
+        <mat-icon>login</mat-icon>
+    </button>
   </mat-toolbar>
