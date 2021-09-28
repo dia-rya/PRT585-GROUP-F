@@ -8,7 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavigationBarComponent implements OnInit {
 
+  
+  public userName: string;
+  public totalPoints: number;
+
   constructor() {
+    this.userName="G4NTZ";
+    this.totalPoints=999;
    }
 
   ngOnInit(): void {
