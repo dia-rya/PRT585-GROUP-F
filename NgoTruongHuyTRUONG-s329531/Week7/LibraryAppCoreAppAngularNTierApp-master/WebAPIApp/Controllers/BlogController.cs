@@ -36,7 +36,7 @@ namespace WEB_API.Controllers
                     return StatusCode(500, result);
             }
         }
-
+        //abc
         [HttpGet]
         [Route("[action]")]
         public async Task<IActionResult> GetAllBlogs()
