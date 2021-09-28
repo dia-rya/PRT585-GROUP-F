@@ -27,13 +27,12 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "SocialMediaApp-V3/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              
               "src/styles.css"
             ],
             "scripts": [
-              "SocialMediaApp-V3/node_modules/jquery/dist/jquery.min.js",
-              "SocialMediaApp-V3/node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"    
             ]
           },
           "configurations": {
