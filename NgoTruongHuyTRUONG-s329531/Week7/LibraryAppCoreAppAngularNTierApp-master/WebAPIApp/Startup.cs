@@ -41,6 +41,7 @@ namespace WebAPIApp
             services.AddScoped<IStudent_Service, Student_Service>();
             services.AddScoped<IBlog_Service, Blog_Service>();
             services.AddScoped<IAccount_Service, Account_Service>();
+            services.AddScoped<IMessage_Service, Message_Service>();
             //services.AddScoped<IApplicant_Service, Applicant_Service>();
             //services.AddScoped<IGrade_Service, Grade_Service>();
             //services.AddScoped<IApplication_Service, Application_Service>();
