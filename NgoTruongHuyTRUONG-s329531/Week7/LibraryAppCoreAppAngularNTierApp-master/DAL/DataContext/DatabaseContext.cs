@@ -46,6 +46,7 @@ namespace DAL.DataContext
 
         public DbSet<Blog> Blogs { get; set; }
 
+        public DbSet<Account> Accounts { get; set; }
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
         //{
         //    //SET CUSTOM DEFAULT VALUE ON CREATION
