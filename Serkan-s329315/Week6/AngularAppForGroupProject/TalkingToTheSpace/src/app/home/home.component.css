@@ -1,54 +1,13 @@
-@keyframes move-background {
-    from {
-      -webkit-transform: translate3d(0px, 0px, 0px);
-    }
-    to {
-      -webkit-transform: translate3d(1000px, 0px, 0px);
-    }
-  }
-  @-webkit-keyframes move-background {
-    from {
-      -webkit-transform: translate3d(0px, 0px, 0px);
-    }
-    to {
-      -webkit-transform: translate3d(1000px, 0px, 0px);
-    }
-  }
-  @-moz-keyframes move-background {
-    from {
-      -webkit-transform: translate3d(0px, 0px, 0px);
-    }
-    to {
-      -webkit-transform: translate3d(1000px, 0px, 0px);
-    }
-  }
-  @-webkit-keyframes move-background {
-    from {
-      -webkit-transform: translate3d(0px, 0px, 0px);
-    }
-    to {
-      -webkit-transform: translate3d(1000px, 0px, 0px);
-    }
-  }
-  .background-container {
-   
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
+:host {
+    display: block;
+    margin-top: 1rem;
   }
   
-  .stars {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/stars.png) repeat
-  }
-  
- 
-  
-  img {
-    padding:10;
-    height: 35vh;
-    width: 35vh;
-    position: absolute;
-    z-index: 3;
-    right: 20px;
+  .open-close-container {
+    border: 1px solid #dddddd;
+    margin-top: 1em;
+    padding: 20px 20px 0px 20px;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
   }

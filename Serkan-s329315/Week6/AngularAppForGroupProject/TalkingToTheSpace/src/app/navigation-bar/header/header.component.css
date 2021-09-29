@@ -1,20 +1,15 @@
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover, a:active{
-    color: lightgray;
-}
-
-.navigation-items{
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-}
 
 mat-toolbar{
     position: absolute;
-    background-color:transparent  !important;;
+    background-color:transparent;
 }
+.toolbar_items{
+    color:white;
+}
+.flexExpand{
 
+    flex: 1 1 auto;
+}
+.menu{
+    color:white;
+}
