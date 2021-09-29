@@ -10,15 +10,8 @@ import { trigger, transition, state, animate, style } from '@angular/animations'
 export class HomeComponent implements OnInit {
 
   constructor() { }
-  isDisabled = false;
-  isOpen = false;
-  toggleAnimations() {
-    this.isDisabled = !this.isDisabled;
-  }
 
-  toggle() {
-    this.isOpen = !this.isOpen;
-  }
+  test = 'Hello World';
   ngOnInit(): void {
   }
 
