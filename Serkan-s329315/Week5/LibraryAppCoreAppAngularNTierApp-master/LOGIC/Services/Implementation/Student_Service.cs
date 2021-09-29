@@ -22,18 +22,18 @@ namespace LOGIC.Services.Implementation
         /// Obtains all the Student studentes that exist in the database
         /// </summary>
         /// <returns></returns>
-        public async Task<Generic_ResultSet<List<EnrolledClass_ResultSet>>> GetAllStudents()
+        public async Task<Generic_ResultSet<List<Student_ResultSet>>> GetAllStudents()
         {
-            Generic_ResultSet<List<EnrolledClass_ResultSet>> result = new Generic_ResultSet<List<EnrolledClass_ResultSet>>();
+            Generic_ResultSet<List<Student_ResultSet>> result = new Generic_ResultSet<List<Student_ResultSet>>();
             try
             {
                 //GET ALL Student studentES
                 List<Student> Studentes = await _student_operations.ReadAll();
                 //MAP DB Student RESULTS
-                result.result_set = new List<EnrolledClass_ResultSet>();
+                result.result_set = new List<Student_ResultSet>();
                 Studentes.ForEach(s =>
                 {
-                    result.result_set.Add(new EnrolledClass_ResultSet
+                    result.result_set.Add(new Student_ResultSet
                     {
                         student_id = s.StudentID,
                         name = s.Student_Name,
@@ -57,16 +57,16 @@ namespace LOGIC.Services.Implementation
         }
 
 
-        public async Task<Generic_ResultSet<EnrolledClass_ResultSet>> GetStudentById(long id)
+        public async Task<Generic_ResultSet<Student_ResultSet>> GetStudentById(long id)
         {
-            Generic_ResultSet<EnrolledClass_ResultSet> result = new Generic_ResultSet<EnrolledClass_ResultSet>();
+            Generic_ResultSet<Student_ResultSet> result = new Generic_ResultSet<Student_ResultSet>();
             try
             {
                 //GET by ID Student 
                 var Student = await _student_operations.Read(id);
 
                 //MAP DB Student RESULTS
-                result.result_set = new EnrolledClass_ResultSet
+                result.result_set = new Student_ResultSet
                 {
                     name = Student.Student_Name,
                     student_id = Student.StudentID
@@ -94,9 +94,9 @@ namespace LOGIC.Services.Implementation
         /// </summary>
         /// <param name="name"></param>
         /// <returns></returns>
-        public async Task<Generic_ResultSet<EnrolledClass_ResultSet>> AddStudent(string name)
+        public async Task<Generic_ResultSet<Student_ResultSet>> AddStudent(string name)
         {
-            Generic_ResultSet<EnrolledClass_ResultSet> result = new Generic_ResultSet<EnrolledClass_ResultSet>();
+            Generic_ResultSet<Student_ResultSet> result = new Generic_ResultSet<Student_ResultSet>();
             try
             {
                 //INIT NEW DB ENTITY OF Student
@@ -109,7 +109,7 @@ namespace LOGIC.Services.Implementation
                 Student = await _student_operations.Create(Student);
 
                 //MANUAL MAPPING OF RETURNED Student VALUES TO OUR Student_ResultSet
-                EnrolledClass_ResultSet studentAdded = new EnrolledClass_ResultSet
+                Student_ResultSet studentAdded = new Student_ResultSet
                 {
                     name = Student.Student_Name,
                     student_id = Student.StudentID
@@ -138,9 +138,9 @@ namespace LOGIC.Services.Implementation
         /// <param name="student_id"></param>
         /// <param name="name"></param>
         /// <returns></returns>
-        public async Task<Generic_ResultSet<EnrolledClass_ResultSet>> UpdateStudent(Int64 student_id, string name)
+        public async Task<Generic_ResultSet<Student_ResultSet>> UpdateStudent(Int64 student_id, string name)
         {
-            Generic_ResultSet<EnrolledClass_ResultSet> result = new Generic_ResultSet<EnrolledClass_ResultSet>();
+            Generic_ResultSet<Student_ResultSet> result = new Generic_ResultSet<Student_ResultSet>();
             try
             {
                 //INIT NEW DB ENTITY OF Student
@@ -155,7 +155,7 @@ namespace LOGIC.Services.Implementation
                 Student = await _student_operations.Update(Student, student_id);
 
                 //MANUAL MAPPING OF RETURNED Student VALUES TO OUR Student_ResultSet
-                EnrolledClass_ResultSet studentUpdated = new EnrolledClass_ResultSet
+                Student_ResultSet studentUpdated = new Student_ResultSet
                 {
                     name = Student.Student_Name,
                     student_id = Student.StudentID

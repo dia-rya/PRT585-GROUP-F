@@ -42,7 +42,7 @@ namespace LOGIC.Services.Implementation
 
                 //SET SUCCESSFUL RESULT VALUES
                 result.userMessage = string.Format("All EnrolledClass EnrolledClasses obtained successfully");
-                result.internalMessage = "LOGIC.Services.Implementation.EnrolledClass_Service: GetAllEnrolledClass() method executed successfully.";
+                result.internalMessage = "LOGIC.Services.Implementation.EnrolledClass_Service: GetAllEnrolledClasses() method executed successfully.";
                 result.success = true;
             }
             catch (Exception exception)
