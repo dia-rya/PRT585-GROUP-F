@@ -8,8 +8,8 @@ namespace DAL.Entities
 {
     public class EnrolledClass
     {
-        public Int64 ClassID { get; set; } //(PK)
+        public Int64 EnrolledClassID { get; set; } //(PK)
 
-        public String Class_Name { get; set; }
+        public String EnrolledClass_Name { get; set; }
     }
 }
