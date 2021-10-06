@@ -74,7 +74,7 @@ namespace Gettoe_Elementary
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Gettoe_Elementary v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Talking To Space v1"));
             }
 
             app.UseRouting();

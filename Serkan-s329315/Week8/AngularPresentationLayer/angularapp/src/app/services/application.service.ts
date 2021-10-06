@@ -14,7 +14,8 @@ export class ApplicationService {
   async addApplication(application: Application): Promise<any> {
     return await this.http
       .post<any>(
-        'http://localhost:50653/api/Application/AddApplicationApplicant',
+        'https://localhost:44329/api/Application/AddApplicationApplicant',
+
         application,
         {}
       )
@@ -23,7 +24,7 @@ export class ApplicationService {
 
   async GetGrades(): Promise<GradesResult> {
     return await this.http
-      .get<GradesResult>('http://localhost:50653/api/Grade/GetAllGrades')
+      .get<GradesResult>('https://localhost:44329/api/Grade/GetAllGrades')
       .toPromise();
   }
 
