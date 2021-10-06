@@ -10,3 +10,6 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAng
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\LOGIC\obj\Debug\net5.0\LOGIC.dll
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\LOGIC\obj\Debug\net5.0\ref\LOGIC.dll
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\LOGIC\obj\Debug\net5.0\LOGIC.pdb
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\LOGIC\bin\Debug\net5.0\DAL.dll
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\LOGIC\bin\Debug\net5.0\DAL.pdb
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CopyComplete

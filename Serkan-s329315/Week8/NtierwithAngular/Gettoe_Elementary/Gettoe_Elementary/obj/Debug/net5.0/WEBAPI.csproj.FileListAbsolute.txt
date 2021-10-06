@@ -61,3 +61,5 @@ C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAng
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\Gettoe_Elementary\obj\Debug\net5.0\ref\WEBAPI.dll
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\Gettoe_Elementary\obj\Debug\net5.0\WEBAPI.pdb
 C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\Gettoe_Elementary\obj\Debug\net5.0\WEBAPI.genruntimeconfig.cache
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\Gettoe_Elementary\bin\Debug\net5.0\LOGIC.dll
+C:\Users\G4NTZ\Documents\GitHub\PRT585-GROUP-F\Serkan-s329315\Week8\NtierwithAngular\Gettoe_Elementary\Gettoe_Elementary\bin\Debug\net5.0\LOGIC.pdb

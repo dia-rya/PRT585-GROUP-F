@@ -1,6 +1,7 @@
+using LOGIC.Services.Implementation;
+using LOGIC.Services.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -32,6 +33,38 @@ namespace Gettoe_Elementary
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Gettoe_Elementary", Version = "v1" });
             });
+            #region CUSTOM SERVICES [D-I]
+            services.AddScoped<IApplicant_Service, Applicant_Service>();
+            services.AddScoped<IGrade_Service, Grade_Service>();
+            services.AddScoped<IApplication_Service, Application_Service>();
+            services.AddScoped<IApplicationStatus_Service, ApplicationStatus_Service>();
+            #endregion
+
+            #region CORS
+            services.AddCors();
+
+            string corsUrl = Configuration["CORS:site"];
+            string[] corsUrls;
+            if (corsUrl.Contains(","))
+            {
+                corsUrls = corsUrl.Split(',').ToArray();
+            }
+            else
+            {
+                corsUrls = new string [1];
+                corsUrls[0] = corsUrl;
+            }
+            services.AddCors(options =>
+            {
+                options.AddPolicy("angular",
+                    builder =>
+                    {
+                        builder.WithOrigins(corsUrls)
+                                            .AllowAnyHeader()
+                                            .AllowAnyMethod();
+                    });
+            });
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,9 +77,9 @@ namespace Gettoe_Elementary
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Gettoe_Elementary v1"));
             }
 
-            app.UseHttpsRedirection();
-
             app.UseRouting();
+
+            app.UseCors();
 
             app.UseAuthorization();
 
