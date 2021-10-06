@@ -8,9 +8,14 @@ import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 export class SidenavListComponent implements OnInit {
   @Output() sidenavClose = new EventEmitter();
 
-  constructor() { }
+  public userName: string;
+  public totalPoints: number;
+  constructor() {
+    this.userName="G4NTZ";
+    this.totalPoints=999; }
 
   ngOnInit(): void {
+    
   }
   public onSidenavClose = () => {
     this.sidenavClose.emit();

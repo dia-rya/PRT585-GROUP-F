@@ -7,11 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Talking To The Space';
-  public userName: string;
-  public totalPoints: number;
 
   constructor() {
-    this.userName="G4NTZ";
-    this.totalPoints=999;
    }
 }
