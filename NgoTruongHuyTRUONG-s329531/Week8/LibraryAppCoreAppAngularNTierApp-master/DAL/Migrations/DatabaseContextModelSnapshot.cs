@@ -136,6 +136,33 @@ namespace DAL.Migrations
                     b.ToTable("Grades");
                 });
 
+            modelBuilder.Entity("DAL.Entities.Message", b =>
+                {
+                    b.Property<long>("MessageID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Message_Content")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Message_Creation_Date")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Message_Modified_Date")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Message_Sent_Date")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Message_Status")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("MessageID");
+
+                    b.ToTable("Messages");
+                });
+
             modelBuilder.Entity("DAL.Entities.Student", b =>
                 {
                     b.Property<long>("StudentID")
@@ -149,6 +176,33 @@ namespace DAL.Migrations
                     b.HasKey("StudentID");
 
                     b.ToTable("Students");
+                });
+
+            modelBuilder.Entity("DAL.Entities.User", b =>
+                {
+                    b.Property<long>("UserID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("User_Creation_Date")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User_Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User_Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User_Password")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("User_Profile_Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("UserID");
+
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("DAL.Entities.Application", b =>
