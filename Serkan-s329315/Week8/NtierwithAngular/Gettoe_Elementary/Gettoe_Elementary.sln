@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gettoe_Elementary", "Gettoe_Elementary\Gettoe_Elementary.csproj", "{71DEF87B-6C50-4D24-8112-2C142113A704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B6BD7FD9-3C80-4AE9-A375-5CD626BC6EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOGIC", "LOGIC\LOGIC.csproj", "{0C1630CC-FC31-4C17-8409-8436100A8246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DEF87B-6C50-4D24-8112-2C142113A704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DEF87B-6C50-4D24-8112-2C142113A704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DEF87B-6C50-4D24-8112-2C142113A704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DEF87B-6C50-4D24-8112-2C142113A704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BD7FD9-3C80-4AE9-A375-5CD626BC6EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BD7FD9-3C80-4AE9-A375-5CD626BC6EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BD7FD9-3C80-4AE9-A375-5CD626BC6EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BD7FD9-3C80-4AE9-A375-5CD626BC6EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1630CC-FC31-4C17-8409-8436100A8246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1630CC-FC31-4C17-8409-8436100A8246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1630CC-FC31-4C17-8409-8436100A8246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1630CC-FC31-4C17-8409-8436100A8246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D376693-0C37-463B-82F2-FEA872462649}
+	EndGlobalSection
+EndGlobal
