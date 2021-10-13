@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/milk/.dotnet/store/|arch|/|tfm|",
+      "/Users/milk/.nuget/packages"
+    ]
+  }
+}

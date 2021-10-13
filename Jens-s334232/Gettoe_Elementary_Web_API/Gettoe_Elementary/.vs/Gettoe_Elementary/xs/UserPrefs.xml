@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{769F562F-D6A4-4A2A-8A8D-DB13DE627670}|Gettoe_Elementary">
+  <MonoDevelop.Ide.ItemProperties.WEB__API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gettoe_Elementary/Startup.cs">
+    <Files>
+      <File FileName="LOGIC/Services/Implementation/Grade_Service.cs" Line="40" Column="1" />
+      <File FileName="LOGIC/Services/Interfaces/IGrade_Service.cs" />
+      <File FileName="LOGIC/Services/Models/Generic_ResultSet.cs" />
+      <File FileName="Gettoe_Elementary/Startup.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gettoe_Elementary" expanded="True">
+            <Node name="DAL" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Functions" expanded="True">
+                <Node name="Crud" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="LOGIC" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Implementation" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Models" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WEB_API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

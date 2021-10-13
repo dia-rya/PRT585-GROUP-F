@@ -1,0 +1,36 @@
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.json
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.dev.json
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.genruntimeconfig.cache
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.csprojAssemblyReference.cache
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.json
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.dev.json
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.genruntimeconfig.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.deps.json
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.json
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.runtimeconfig.dev.json
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.AssemblyReference.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfoInputs.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.AssemblyInfo.cs
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.csproj.CoreCompileInputs.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.dll
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.pdb
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/DAL/obj/Debug/netcoreapp3.1/DAL.genruntimeconfig.cache

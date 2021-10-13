@@ -1,0 +1,37 @@
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.deps.json
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.dll
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.pdb
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/DAL.dll
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/DAL.pdb
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csprojAssemblyReference.cache
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.AssemblyInfoInputs.cache
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.AssemblyInfo.cs
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.CoreCompileInputs.cache
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.CopyComplete
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.dll
+D:/Gettoe_Elementary_Code_DAL_LOGIC_ONLY/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.pdb
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.deps.json
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.dll
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.pdb
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/DAL.dll
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/DAL.pdb
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csprojAssemblyReference.cache
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.AssemblyInfoInputs.cache
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.AssemblyInfo.cs
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.CoreCompileInputs.cache
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.CopyComplete
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.dll
+D:/Code/Gettoe_Code Tuts/Gettoe Code - Elementary School/Code/Gettoe_Elementary_Code/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.pdb
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.deps.json
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.dll
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/LOGIC.pdb
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/DAL.dll
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/bin/Debug/netcoreapp3.1/DAL.pdb
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.AssemblyReference.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.AssemblyInfoInputs.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.AssemblyInfo.cs
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.CoreCompileInputs.cache
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.csproj.CopyComplete
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.dll
+/Users/milk/Desktop/Gettoe_Elementary_Web_API/Gettoe_Elementary/LOGIC/obj/Debug/netcoreapp3.1/LOGIC.pdb

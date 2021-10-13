@@ -1,0 +1,24 @@
+HI guys,
+
+This is the latest code for the Web API:
+
+I have also included the database if you don't want to do any db migrations.
+2 Database options: DO EITHER 1
+
+1.)Restore the database from the .bak file (Gettoe_Elementary.bak)
+
+2.)Create an empty database called: school_applications_db
+Then run the script(elementary.sql)
+
+NOTE: 
+REMEMBER TO SET YOUR SQL CONNECTION STRING IN THE appsettings.json FILE IN THE WEB_API PROJECT... 
+
+Finally:
+
+I have enabled CORS for the web api. So you will need to just add the urls of the apps which will be calling the api.
+I have included http://localhost:4200 for the angular app. But if you want to add more, just go to the appsettings.json
+file and add more urls to the CORS:site variable. Just use commas eg:
+//CORS
+  "CORS": {
+    "site": "http://localhost:4200,http://localhost:3214,http://localhost:5002" 
+  },
